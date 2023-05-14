@@ -1,0 +1,368 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kanit:wght@500&family=Lobster&family=Oswald:wght@500&family=Pacifico&family=Poppins:wght@500&display=swap'); 
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{ 
+    font-family: 'Bebas Neue', cursive;
+//     background-color: #21D4FD;
+// background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
+
+
+}
+.navbar{
+  font-size: 20px;
+  .search,.search1{
+    border: 2px solid ;
+    border-radius: 0;
+  }
+  .navimg{
+    width: 50%;
+    padding: 0;
+    margin: 0;
+  }
+  .navbrand{
+    width: 8%;
+    font-size: 26px;
+  }
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    height: 600px;
+  
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .offer{
+    .card{
+      height: 90%;
+      background-color: #000000;
+      &:hover .btn{
+        color:#000000;
+        border: 2px solid;
+        border-radius: 0;
+        background-color: white;
+      }
+      .btn2{
+        background-color: rgb(37, 37, 37);
+        border-radius: 0;
+        color: white;
+      }
+    }
+  }
+
+  .card1{
+
+    height: 395px;
+    margin: 10px;
+    transition: transform 2s;
+    margin-bottom: 50px;
+    border-radius: 0;
+    transition: transform .5s;
+    border: 2px solid transparent;
+
+    &:hover{
+      box-shadow: 1px 1px 5px 1px rgb(150, 150, 150);
+      border: 2px solid  rgb(150, 150, 150);
+      transform: scale(1.05);
+    
+    }
+    &:hover .price{
+      font-weight: bolder;
+      font-size: 16px;
+      transition: transform 2s;
+      color: rgb(170, 118, 51);
+    }
+    &:hover .btn{
+      color:#000000;
+      border: 2px solid;
+      border-radius: 0;
+      background-color: white;
+  
+    }
+   
+    .btn{
+      background-color: rgb(37, 37, 37);
+      border-radius: 0;
+      color: white;
+
+    } .card-img-top{
+        width: 20%;
+        height: 20%;
+        text-align: center;
+ }
+   .card-text{font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+
+   }.card-title{
+    font-size: 20px;
+    text-align: center;
+    margin: 5px;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    
+   }
+} 
+.card2{
+
+  height: 460px;
+  margin: 10px;
+  border: none;
+  transition: transform .5s;
+  margin-bottom: 50px;
+  &:hover{
+    box-shadow: 1px 1px 5px 1px rgb(150, 150, 150);
+    border: 2px solid  rgb(150, 150, 150);
+    transform: scale(1.05);
+  
+  }
+  &:hover .price{
+    font-weight: bolder;
+    font-size: 16px;
+    transition: transform .5s;
+    color: rgb(170, 118, 51);
+  }
+  &:hover .btn{
+    color:#000000;
+    border: 2px solid;
+    border-radius: 0;
+    background-color: white;
+
+  }
+  .btn{
+    background-color: rgb(37, 37, 37);
+    border-radius: 0;
+    color: white;
+
+    
+
+  }
+  img{
+    aspect-ratio: 2/3;
+  }
+  .card-text{font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+
+   }.card-title{
+    font-size: 20px;
+    text-align: center;
+    margin: 5px;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    
+   }
+}
+.card3{
+
+  height: 395px;
+  margin: 10px;
+  border: none;
+  transition: transform .5s;
+  margin-bottom: 50px;
+  &:hover{
+    box-shadow: 1px 1px 5px 1px rgb(150, 150, 150);
+    border: 2px solid  rgb(150, 150, 150);
+    transform: scale(1.05);
+  
+  }
+  &:hover .price{
+    font-weight: bolder;
+    font-size: 16px;
+    transition: transform 2s;
+    color: rgb(170, 118, 51);
+  }
+  &:hover .btn{
+    color:#000000;
+    border: 2px solid;
+    border-radius: 0;
+    background-color: white;
+
+  }
+  .btn{
+    background-color: rgb(37, 37, 37);
+    border-radius: 0;
+    color: white;
+
+    
+
+  }
+  img{
+    aspect-ratio: 2/3;
+  }
+  .card-text{font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+
+   }.card-title{
+    font-size: 20px;
+    text-align: center;
+    margin: 5px;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    
+   }
+}
+.console{
+  height: 100%;
+  object-fit: cover;
+}.card4{
+
+  height: 430px;
+  margin: 10px;
+  border: none;
+  transition: transform .5s;
+  margin-bottom: 50px;
+  &:hover{
+    box-shadow: 1px 1px 5px 1px rgb(150, 150, 150);
+    border: 2px solid  rgb(150, 150, 150);
+    transform: scale(1.05);
+  
+  }
+  &:hover .price{
+    font-weight: bolder;
+    font-size: 16px;
+    transition: transform .5s;
+    color: rgb(170, 118, 51);
+  }
+  &:hover .btn{
+    color:#000000;
+    border: 2px solid;
+    border-radius: 0;
+    background-color: white;
+
+  }
+  .btn{
+    background-color: rgb(37, 37, 37);
+    border-radius: 0;
+    color: white;
+
+    
+
+  }
+  div img{
+    aspect-ratio: 2/2.5;
+  }
+  .card-text{font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+
+   }.card-title{
+    font-size: 20px;
+    text-align: center;
+    margin: 5px;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    
+   }
+}
+.footer{
+  background-color: rgb(221, 221, 221);
+  color: rgb(15, 15, 15);
+
+}  .nav-links{
+  color: rgb(12, 0, 0);
+  text-decoration: none;
+}
+@media only screen and (min-width:360px) and (max-width: 640px ) {
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    height: 200px;
+    width: 100px;
+
+  
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  } .swiper-slide img {
+    display: block;
+    width: 95%;
+    height: 100%;
+    object-fit: cover;
+    background-size: 100% 100%;
+  } .offer{
+    display: flex;
+    flex-wrap: wrap;
+    .card{
+     
+      background-color: #000000;
+      justify-items: center;
+      display: flex ;
+  
+      
+      .btn2{
+        background-color: rgb(37, 37, 37);
+        border-radius: 0;
+        font-size: 10px;
+        padding: 0;
+        margin: 0;
+
+        color: white;
+      }
+    }
+  }.card1 div img{
+    width: 190px;
+  }.card2 div img{
+    width: 190px;
+  }.card3 div img{
+    width: 150px;
+  }.card4 div img{
+    width: 220px;
+  }.ban{
+    background-color: white;
+    border-radius: 10px;
+   
+  } .brandban{
+    width: 25px;
+  }
+  .hide{
+    display: none;
+
+  }
+}

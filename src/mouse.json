@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "category": "mouse",
+    "name": "Logitech MX Master 3",
+    "brand": "Logitech",
+    "description": "Wireless mouse with 5 buttons and a unique thumbwheel.",
+    "wireless": true,
+    "image": "https://m.media-amazon.com/images/I/61VjlQUqQDL._SL1500_.jpg",
+    "dpi": 4000,
+    "price": 99.99
+  },
+  {
+    "id": 2,
+    "category": "mouse",
+    "name": "Microsoft Surface Precision Mouse",
+    "brand": "Microsoft",
+    "description": "Ergonomic mouse with 6 buttons and customizable buttons and cursor speed.",
+    "wireless": true,
+    "image": "https://cdn.shopify.com/s/files/1/1034/1611/products/microsoft_ftw_00001_surface_precision_mouse_1510785411000_1374508_600x600_crop_center.jpg?v=1576003733",
+    "dpi": 3200,
+    "price": 129.99
+  },
+  {
+    "id": 3,
+    "category": "mouse",
+    "name": "Razer DeathAdder V2",
+    "brand": "Razer",
+    "description": "Wired mouse with 8 programmable buttons and customizable RGB lighting.",
+    "wireless": false,
+    "image": "https://m.media-amazon.com/images/I/61doJ9AKCPL._SL1500_.jpg",
+    "dpi": 20000,
+    "price": 69.99
+  },
+  {
+    "id": 4,
+    "category": "mouse",
+    "name": "Corsair Harpoon RGB Wireless",
+    "brand": "Corsair",
+    "description": "Wireless mouse with 6 programmable buttons and an optical sensor.",
+    "wireless": true,
+    "image": "https://m.media-amazon.com/images/I/51CIlt+6QUL._SY450_.jpg",
+    "dpi": 10000,
+    "price": 49.99
+  },
+  {
+    "id": 5,
+    "category": "mouse",
+    "name": "SteelSeries Rival 650",
+    "brand": "SteelSeries",
+    "description": "Wireless mouse with 7 programmable buttons and dual sensor technology.",
+    "wireless": true,
+    "image": "https://m.media-amazon.com/images/I/41LMYm55KbL.jpg",
+    "dpi": 12000,
+    "price": 99.99
+  },
+  {
+    "id": 6,
+    "category": "mouse",
+    "name": "HP Wireless Mouse 200",
+    "brand": "HP",
+    "description": "Basic wireless mouse with 3 buttons and a scroll wheel.",
+    "wireless": true,
+    "image": "data:image/jpeg;base64,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",
+    "dpi": 1000,
+    "price": 19.99
+  },
+  {
+    "id": 7,
+    "category": "mouse",
+    "name": "Apple Magic Mouse 2",
+    "brand": "Apple",
+    "description": "Multi-touch mouse with Bluetooth connectivity.",
+    "wireless": true,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXz9h_VSd-dDlL22fTpGaRiHM6KKZe9v5bZA&usqp=CAU",
+    "dpi": 1300,
+    "price": 79.00
+  },
+  {
+    "id": 8,
+    "category": "mouse",
+    "name": "Lenovo Legion M500",
+    "brand": "Lenovo",
+    "description": "Wired gaming mouse with 7 programmable buttons and customizable RGB lighting.",
+    "wireless": false,
+    "image": "https://5.imimg.com/data5/SELLER/Default/2022/5/BJ/NW/AE/26138205/lenovo-legion-m500-rgb-gaming-mouse-1000x1000.jpg",
+    "dpi": 16000,
+    "price": 49.99
+  },
+  {
+    "id": 9,
+    "category": "mouse",
+    "name": "HP Omen Photon",
+    "brand": "HP",
+    "description": "Wireless gaming mouse with 11 programmable buttons and swappable side plates.",
+    "wireless": true,
+    "image": "data:image/jpeg;base64,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",
+    "dpi": 16000,
+    "price": 129.99
+  },
+  {
+    "id": 10,
+    "category": "mouse",
+    "name": "Logitech G502 HERO",
+    "brand": "Logitech",
+    "description": "Wired gaming mouse with 11 programmable buttons and customizable weight and balance.",
+    "wireless": false,
+    "image": "https://m.media-amazon.com/images/I/61mpMH5TzkL._SL1500_.jpg",
+    "dpi": 16000,
+    "price": 79.99
+  },
+  {
+    "id": 11,
+    "category": "mouse",
+    "name": "Microsoft Sculpt Comfort Mouse",
+    "brand": "Microsoft",
+    "description": "Ergonomic wireless mouse with 5 buttons and customizable button functionality.",
+    "wireless": true,
+    "image": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1lsiD?ver=fd15",
+    "dpi": 1000,
+    "price": 29.99
+  },
+  {
+    "id": 12,
+    "category": "mouse",
+    "name": "Corsair Ironclaw RGB Wireless",
+    "brand": "Corsair",
+    "description": "Wireless gaming mouse with 10 programmable buttons and a custom Pixart sensor.",
+    "wireless": true,
+    "image": "https://m.media-amazon.com/images/I/71-aIBY+KoL._SL1500_.jpg",
+    "dpi": 18000,
+    "price": 79.99
+  },
+  {
+    "id": 13,
+    "category": "console",
+    "name": "Xbox Elite Wireless Controller Series 2",
+    "company": "Microsoft",
+    "type": "Wireless Gaming Controller",
+    "compatibility": "Xbox Series X|S, Xbox One",
+    "image": "https://m.media-amazon.com/images/I/71xks8yKCtL._SX342_.jpg",
+    "price": 179.99
+  },
+  {
+    "id": 14,
+    "category": "console",
+    "name": "DualSense Wireless Controller",
+    "company": "Sony",
+    "type": "Wireless Gaming Controller",
+    "compatibility": "PS5",
+    "image": "https://gameloot.in/wp-content/uploads/2021/07/Sony-Official-PlayStation-5-DualSense-Wireless-Controller-Cosmic-Red-PS5.jpg",
+    "price": 69.99
+  },
+  {
+    "id": 15,
+    "category": "console",
+    "name": "Logitech G923 Racing Wheel",
+    "company": "Logitech",
+    "type": "Racing Wheel",
+    "compatibility": "PC, PS5, PS4",
+    "image": "https://resource.logitechg.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g923-and-trueforce/g923-gallery/g923-ps4-gallery-2.png?v=1",
+    "price": 399.99
+  },
+  {
+    "id": 16,
+    "category": "console",
+    "name": "SteelSeries Stratus Duo Wireless Gaming Controller",
+    "company": "SteelSeries",
+    "type": "Wireless Gaming Controller",
+    "compatibility": "PC, Android",
+    "image": "https://cdn.cs.1worldsync.com/27/dd/27dd76f7-ae12-48cf-9067-dcd1bad257e2.jpg",
+    "price": 59.99
+  },
+  {
+    "id": 17,
+    "category": "console",
+    "name": "Nintendo Switch Pro Controller",
+    "company": "Nintendo",
+    "type": "Wireless Gaming Controller",
+    "compatibility": "Nintendo Switch",
+    "image": "https://www.gamespot.com/a/uploads/original/1595/15950357/4062027-8bitdocontroller.png",
+    "price": 69.99
+  },
+  {
+    "id": 18,
+    "category": "console",
+    "name": "Razer Raiju Tournament Edition",
+    "company": "Razer",
+    "type": "Wired Gaming Controller",
+    "compatibility": "PS4, PC",
+    "image": "https://m.media-amazon.com/images/I/61-n-Cx9-SL._SL1500_.jpg",
+    "price": 149.99
+  },
+  {
+    "id": 19,
+    "category": "console",
+    "name": "PowerA Fusion Pro Wired Controller",
+    "company": "PowerA",
+    "type": "Wired Gaming Controller",
+    "compatibility": "Xbox Series X|S, Xbox One, PC",
+    "image": "https://media.gamestop.com/i/gamestop/11112494_ALT02/PowerA-Fusion-Pro-2-Wired-Controller-for-Xbox-Series-X?$pdp$ ",
+    "price": 79.99
+  },
+  {
+    "id": 20,
+    "name": "ASTRO Gaming C40 TR Controller",
+    "category": "console",
+    "company": "ASTRO",
+    "type": "Wired Gaming Controller",
+    "compatibility": "PS4, PC",
+    "image": "https://m.media-amazon.com/images/I/71da8hXK78L._SX679_.jpg",
+    "price": 199.99
+  },
+  {
+    "id": 21,
+    "category": "console",
+    "name": "Razer Wolverine Ultimate Gaming Controller",
+    "company": "Razer",
+    "type": "Wired Gaming Controller",
+    "compatibility": "Xbox Series X|S, Xbox One, PC",
+    "image": "https://m.media-amazon.com/images/I/618f9UKaVmL._AC_SL1200_.jpg",
+    "price": 159.99
+  },
+  {
+    "id": 22,
+    "category": "console",
+    "name": "Nacon Revolution Unlimited Pro Controller",
+    "company": "Nacon",
+    "type": "Wired Gaming Controller",
+    "compatibility": "PS4, PS5, PC",
+    "image": "https://m.media-amazon.com/images/I/51M5g45SlYL._SL1000_.jpg",
+    "price": 169.99
+  },
+  {
+    "id": 23,
+    "category": "console",
+    "name": "8BitDo SN30 Pro+ Wireless Controller",
+    "company": "8BitDo",
+    "type": "Wireless Gaming Controller",
+    "compatibility": "Nintendo Switch, PC",
+    "image": "https://m.media-amazon.com/images/I/61FFvLM-PCL._SL1359_.jpg  ",
+    "price": 49.99
+  },
+  {
+    "id": 24,
+    "category": "console",
+    "name": "Thrustmaster T.16000M FCS Flight Pack",
+    "company": "Thrustmaster",
+    "type": "Flight Stick with Throttle and Pedals",
+    "compatibility": "PC",
+    "image": "https://speednation.co.nz/cdn/shop/products/Picture9_940af0e9-60ff-480c-bf9e-6fefbc7dd3bf.png?v=1627355030",
+    "price": 299.99
+  }
+]
